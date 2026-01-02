@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquivos/Desorganizados/Core Types.md",
+                "file": "Pessoal/Financeiro/Jan 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Types"
+              "title": "Jan 2026"
             }
           }
         ]
@@ -203,8 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "776b5af7c4b27405",
+  "active": "227db420a5938a8b",
   "lastOpenFiles": [
+    "Pessoal/Financeiro",
+    "Arquivos/Desorganizados/Core Types.md",
+    "Pessoal/Financeiro/Jan 2026.md",
+    "Pessoal",
     "Hobbys/Intro Gmaj7 F#m11.txt",
     "Biblioteca/Profissão Engenheiro Front-End M16 Glossário.pdf",
     "Biblioteca/Profissão Engenheiro Front-End M16 Boas práticas.pdf",
@@ -214,9 +218,6 @@
     "Biblioteca/Profissão Engenheiro Front-End M16 A3.pdf",
     "Biblioteca/Profissão Engenheiro Front-End M16 A2.pdf",
     "Biblioteca/Profissão Engenheiro Front-End M16 A1.pdf",
-    "Biblioteca/Profissão Engenheiro Front-End M15 Glossário.pdf",
-    "Biblioteca/Profissão Engenheiro Front-End M15 Boas práticas.pdf",
-    "Arquivos/Desorganizados/Core Types.md",
     "gitignore.md",
     "Arquivos/Desorganizados/Untitled 1.md",
     "Arquivos/Desorganizados/Log de Atividades.md",
@@ -249,7 +250,6 @@
     "Arquivos/Desorganizados/Regras de Sanidade (SAN).md",
     "Hobbys/oneshot mon.md",
     "Arquivos/Desorganizados/Projeto 4.md",
-    "Projetos/clone-disneyplus/node_modules/csso/node_modules/css-tree/CHANGELOG.md",
-    "Projetos/clone-disneyplus/node_modules/csso/node_modules/css-tree/README.md"
+    "Projetos/clone-disneyplus/node_modules/csso/node_modules/css-tree/CHANGELOG.md"
   ]
 }
