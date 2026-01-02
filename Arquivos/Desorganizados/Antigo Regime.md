@@ -1,0 +1,1 @@
+O Antigo Regime, nos contextos estudados, é a lógica de uma **monarquia de caráter corporativo, descentralizado e pluralístico, fundamentada na justiça e na manutenção de múltiplas jurisdições e hierarquias sociais** [[João Fragoso, Maria de Fátima Gouvêa (Org.) - Na Trama das Redes política e negócios no império Português, séculos XVI-XVIII.pdf#page=72|(pág. 72)]].

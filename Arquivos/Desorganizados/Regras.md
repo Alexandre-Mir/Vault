@@ -1,0 +1,2 @@
+- [ ] Atributos (FOR, CON, TAM, DES, APA, INT, POD, EDU, SORTE, IDADE)
+- [ ] Atributos Secundários (Dano Extra e Corpo)

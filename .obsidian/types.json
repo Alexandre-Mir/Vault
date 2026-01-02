@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "disciplina": "text",
+    "data": "text",
+    "autor_obra": "text",
+    "ano_publicação": "text",
+    "status_fichamento": "text"
+  }
+}
