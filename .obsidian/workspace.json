@@ -15,7 +15,7 @@
               "state": {
                 "file": "Pessoal/Financeiro/Jan 2026.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Jan 2026"
